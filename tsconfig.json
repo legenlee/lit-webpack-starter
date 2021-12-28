@@ -10,6 +10,6 @@
     "sourceMap": true,
     "experimentalDecorators": true,
     "useDefineForClassFields": false,
-    "outDir": "./dist/build/"
+    "outDir": "./dist"
   }
 }
